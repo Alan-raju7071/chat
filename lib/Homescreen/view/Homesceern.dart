@@ -5,7 +5,7 @@ import 'package:trecker_sample/Homescreen/bloc/chat_bloc.dart';
 class Homescreen extends StatelessWidget {
   Homescreen({super.key});
   final TextEditingController controller = TextEditingController();
- // var message=[];
+ 
 
 
   @override
